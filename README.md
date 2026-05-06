@@ -1,2 +1,2 @@
 # LLM-Safeguard-Survey
-[Survey] A Survey on Safeguarding Large Foundation Models
+[Survey] Towards Defending Against Jailbreak on Large Language Models and Vision Language Models: A Survey
